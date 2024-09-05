@@ -1,0 +1,422 @@
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T05:20:21.327Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T05:32:39.832Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T05:32:39.838Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T05:32:40.737Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T05:32:40.743Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-03T05:32:43.796Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-03T05:33:03.062Z"}
+{"level":"error","message":"Invalid Credentials","timestamp":"2024-09-03T05:43:33.941Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T05:44:33.227Z"}
+{"level":"info","message":"User created successfully","timestamp":"2024-09-03T05:47:01.663Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:03:38.087Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:03:38.110Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:04:40.642Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:04:57.943Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:05:49.668Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:05:49.712Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:05:49.729Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:37:39.149Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:37:39.167Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:02.111Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:02.119Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:03.298Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:03.307Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:04.587Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:04.595Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:05.491Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:05.501Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:07.395Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:41:07.406Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:42:29.514Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:42:29.525Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:46:23.302Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:46:23.313Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:47:34.272Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:47:34.282Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:47:36.781Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:47:36.794Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:47:38.577Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:47:38.587Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:03.277Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:03.285Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:04.700Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:04.730Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:14.400Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:14.410Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:32.747Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:32.755Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:34.927Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:48:34.934Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:49:59.751Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:50:28.874Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:50:53.732Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:54:17.325Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:54:44.441Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:44.499Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:44.509Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:49.889Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:49.898Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:50.546Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:50.556Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:51.280Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:51.291Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:52.740Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:54:52.750Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:56:44.162Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:56:44.212Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:56:44.223Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-03T06:57:03.768Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T06:57:05.545Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:07.838Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:07.854Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:08.992Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:08.999Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T06:57:10.901Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:12.312Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:12.322Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:12.924Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:12.935Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:13.871Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:13.881Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:14.724Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:14.732Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:15.193Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:15.209Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:16.006Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:16.021Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T06:57:31.535Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:32.718Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:32.732Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:33.774Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:57:33.786Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T06:58:48.340Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:58:48.387Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T06:58:48.401Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-03T07:27:25.673Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:27:25.688Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T07:34:14.801Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:34:15.867Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:34:15.875Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-03T07:34:27.048Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:34:27.981Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:34:27.991Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T07:34:35.136Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:34:47.484Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:34:47.493Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-03T07:35:08.821Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:35:08.833Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T07:36:23.759Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:24.551Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:24.559Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:36.174Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:36.184Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T07:36:37.451Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:38.850Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:38.860Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:40.086Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:40.094Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:41.139Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:41.151Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:41.659Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:41.668Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:42.591Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:42.599Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:50.996Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:36:51.009Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:37:11.844Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:37:11.856Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-03T07:37:15.675Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-03T07:38:12.090Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T07:38:12.104Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T09:50:55.323Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T09:50:55.333Z"}
+{"level":"error","message":"Invalid Credentials","timestamp":"2024-09-03T10:57:13.798Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T10:57:50.314Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T10:57:50.344Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T10:57:50.353Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T10:58:00.355Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T10:58:00.379Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T10:58:00.385Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T10:58:33.591Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-03T10:58:57.365Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T10:58:57.387Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T10:58:57.395Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:36.303Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:36.307Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:37.290Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:37.294Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:38.000Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:38.007Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-03T11:05:40.247Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:42.189Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:42.193Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T11:05:44.092Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:45.106Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:45.111Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:45.641Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:45.646Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T11:05:48.350Z"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-03T11:05:49.287Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:50.356Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:50.363Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:51.580Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:05:51.583Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:08:04.382Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:08:04.388Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:16.592Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:16.602Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:19.852Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:19.859Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:20.765Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:20.770Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:21.626Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:21.632Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:24.433Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:25.668Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:25.677Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:29.366Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:32.462Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:32.467Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:33.151Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-03T11:32:33.158Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:13:37.641Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:29:20.950Z"}
+{"level":"error","message":"Invalid Credentials","timestamp":"2024-09-04T04:29:47.273Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:30:00.256Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:31:00.194Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:00.252Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:00.264Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:31:18.191Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:18.243Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:18.257Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:21.403Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:21.413Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:22.084Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:22.096Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:22.745Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:22.754Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:23.883Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:23.893Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:26.230Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:26.237Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:26.700Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:26.708Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:31:36.600Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:36.657Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:36.666Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:43.192Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:43.204Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:43.800Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:43.814Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:44.278Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:44.286Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:45.016Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:45.025Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:58.859Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:31:58.872Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:32:08.248Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:32:08.296Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:32:08.309Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04T04:32:45.453Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:32:45.464Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:34:59.737Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:34:59.756Z"}
+{"level":"error","message":"Invalid Credentials","timestamp":"2024-09-04T04:35:09.159Z"}
+{"level":"info","message":"User created successfully","timestamp":"2024-09-04T04:35:36.068Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:35:44.062Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:35:44.100Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:35:44.112Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:36:03.595Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04T04:39:26.770Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:39:26.781Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04T04:39:49.451Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:39:49.463Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04T04:41:15.013Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:15.024Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04T04:41:38.615Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:38.626Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-04T04:41:40.844Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-04T04:41:44.991Z"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-04T04:41:46.314Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:52.825Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:52.833Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:53.432Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:53.442Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:53.930Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:53.939Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:55.236Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:41:55.245Z"}
+{"level":"info","message":"User created successfully","timestamp":"2024-09-04T04:42:49.624Z"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04T04:43:04.484Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:04.533Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:04.545Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:09.129Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:09.137Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:09.848Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:09.857Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:10.399Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:10.408Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:11.142Z"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04T04:43:11.150Z"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04 10:21:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 10:21:43"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 11:17:00"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 11:17:01"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 11:17:01"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 11:17:02"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 11:17:02"}
+{"level":"info","message":"Task updated successfully","timestamp":"2024-09-04 11:17:30"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 11:17:30"}
+{"level":"info","message":"Task updated successfully","timestamp":"2024-09-04 11:17:38"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 11:17:38"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:22"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:22"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 14:52:27"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 14:52:28"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:29"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:29"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:30"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:30"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04 14:52:42"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:42"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:42"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:46"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:46"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:48"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:48"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:50"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:50"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:51"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:52:51"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:28"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:28"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:29"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:29"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:30"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:30"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:31"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:31"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 14:56:33"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:34"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:34"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 14:56:43"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 14:56:46"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:16"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:23"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:28"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:28"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:30"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:30"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:33"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:36"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:36"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:39"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:41"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:42"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:49:43"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:44"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:49:45"}
+{"level":"error","message":"Invalid Credentials","timestamp":"2024-09-04 15:50:02"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-04 15:50:14"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:14"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:14"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:20"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:20"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:22"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:22"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:23"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:23"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:24"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:24"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:50:28"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:50:29"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:33"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:33"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:50:36"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:37"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:37"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:50:39"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:44"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:50:44"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:25"}
+{"level":"info","message":"Task Added","timestamp":"2024-09-04 15:52:39"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:39"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:52:41"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:43"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:59"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:52:59"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:53:03"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:53:05"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:53:07"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:53:07"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:53:08"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:10"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:10"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:10"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:10"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-04 15:53:12"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:13"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:13"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:16"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:16"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:16"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:16"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:17"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-04 15:53:17"}
+{"level":"info","message":"Task status updated successfully","timestamp":"2024-09-04 15:53:19"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:20:46"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:21:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:24"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:24"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:25"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:21:36"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:36"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:36"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:39"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:39"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-05 09:21:43"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-05 09:21:44"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:46"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:21:46"}
+{"level":"info","message":"Favorite status updated successfully","timestamp":"2024-09-05 09:22:17"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:18"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:18"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:20"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:20"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:21"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:22"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:22:22"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:25:24"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:25:24"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:25:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:25:25"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:25:51"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:25:51"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:26:31"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:26:31"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:26:31"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:27:40"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:27:40"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:27:40"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:28:00"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:28:00"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:28:00"}
+{"level":"info","message":"user Registered","timestamp":"2024-09-05 09:28:58"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:28:58"}
+{"level":"info","message":"Tasks fetched successfully","timestamp":"2024-09-05 09:28:58"}
